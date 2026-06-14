@@ -1,0 +1,10 @@
+Considero que es muy importante que las plataformas tecnológicas puedan recibir reportes o información enviada por los ciudadanos de forma estructurada,
+porque esto permite organizar mejor los datos y facilitar su análisis. Cuando la información se recibe de manera clara y ordenada, las personas encargadas de gestionarla
+pueden identificar más rápidamente los problemas, darles seguimiento y buscar soluciones adecuadas.
+
+Además, los reportes estructurados ayudan a evitar confusiones y pérdidas de información, ya que todos los usuarios siguen un mismo formato al momento 
+de enviar sus solicitudes o incidencias. Esto también mejora la comunicación entre la comunidad y las entidades responsables, permitiendo que las necesidades
+de los ciudadanos sean atendidas de manera más eficiente.
+
+Durante esta actividad comprendí la importancia de herramientas como JSON y las APIs para el intercambio de información entre usuarios y sistemas.
+Gracias a estos mecanismos es posible recibir datos, procesarlos y responder de forma automática y organizada. 
