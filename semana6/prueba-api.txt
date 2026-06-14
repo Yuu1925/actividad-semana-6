@@ -3,3 +3,9 @@
   "nombre": "Maria",
   "mensaje": "Hola comunidad"
 }
+
+La respuesta obtenida demuestra que el servidor funciona correctamente, ya que recibió los datos enviados mediante una petición POST a la ruta 
+/registro y luego respondió devolviendo la información en formato JSON. 
+El campo "estado" confirma que los datos fueron recibidos, mientras que los campos "nombre" y "mensaje" muestran la información enviada 
+por el usuario. Esto permite comprobar que Express está capturando los datos mediante req.body y que la API puede recibir y responder información
+de manera organizada.
